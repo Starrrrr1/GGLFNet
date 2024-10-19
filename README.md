@@ -49,11 +49,13 @@ To install all dependencies:
 
         python train.py
 
-- We found that the model can achieve better results by training under the ![MISSFormer](https://github.com/ZhifangDeng/MISSFormer) training framework.
+- We found that the model can achieve better results by training under the *[MISSFormer](https://github.com/ZhifangDeng/MISSFormer)* training framework.
+
+For details, please refer to this link *[GGLFNet]()*
 
 # result
 
-GGLFNet can achieve 83.05% mDSC
+GGLFNet can achieve 83.05% mDSC 
 
 
 
