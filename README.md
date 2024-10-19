@@ -1,9 +1,14 @@
 # GGLFNet
-# Description
 
 # Introduction
 The GGLFNet network improves segmentation accuracy by leveraging global information to guide the fusion of local features. GGLFNet includes a global attention module that captures contextual dependencies at multiple resolutions while reducing the computational complexity of the self-attention mechanism to enhance model efficiency. Additionally, the Global Guidance Local Fusion module is introduced to ensure that global information effectively guides the fusion of local details and semantic features.
+
+## Model Architecture
+
 ![alt text](./GGLFNet/fig/fig1.png)
+
+## Design of Global Information Module
+
 ![alt text](./GGLFNet/fig/fig2.png)
 
 
@@ -37,3 +42,34 @@ The GGLFNet network improves segmentation accuracy by leveraging global informat
 To install all dependencies:
 
         pip install -r requirements.txt
+
+
+# train
+- The model is trained under our training architecture：
+
+        python train.py
+
+- We found that the model can achieve better results by training under the ![MISSFormer](https://github.com/ZhifangDeng/MISSFormer) training framework.
+
+# result
+
+GGLFNet can achieve 83.05% mDSC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
