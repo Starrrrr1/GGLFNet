@@ -2,7 +2,7 @@
 # Description
 
 # Introduction
-![alt text](./fig/fig1.png)
+![alt text](./GGLFNet/fig/fig1.png)
 
 
 # Folder Structure
