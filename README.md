@@ -1,7 +1,12 @@
 # GGLFNet
 # Description
 
+# Introduction
+![alt text](./fig/)
+
+
 # Folder Structure
+        ├── fig
         ├── data
         │   ├── Synapse
         │   │   ├── test_vol_h5
