@@ -27,3 +27,6 @@
         torchvision==0.12.0
         tqdm==4.64.0
         wandb==0.12.21
+To install all dependencies:
+
+pip install -r requirements.txt
