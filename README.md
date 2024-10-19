@@ -2,7 +2,9 @@
 # Description
 
 # Introduction
+The GGLFNet network improves segmentation accuracy by leveraging global information to guide the fusion of local features. GGLFNet includes a global attention module that captures contextual dependencies at multiple resolutions while reducing the computational complexity of the self-attention mechanism to enhance model efficiency. Additionally, the Global Guidance Local Fusion module is introduced to ensure that global information effectively guides the fusion of local details and semantic features.
 ![alt text](./GGLFNet/fig/fig1.png)
+![alt text](./GGLFNet/fig/fig2.png)
 
 
 # Folder Structure
