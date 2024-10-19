@@ -29,4 +29,4 @@
         wandb==0.12.21
 To install all dependencies:
 
-pip install -r requirements.txt
+        pip install -r requirements.txt
