@@ -55,7 +55,7 @@ For details, please refer to this link *[GGLFNet]()*
 
 # result
 
-GGLFNet can achieve 83.05% mDSC 
+GGLFNet can achieve 83.05% mDSC on Synapse dataset.
 
 
 
