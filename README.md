@@ -5,11 +5,11 @@ The GGLFNet network improves segmentation accuracy by leveraging global informat
 
 ## Model Architecture
 
-![alt text](./GGLFNet/fig/fig1.png)
+![alt text](./fig/fig1.png)
 
 ## Design of Global Information Module
 
-![alt text](./GGLFNet/fig/fig2.png)
+![alt text](./fig/fig2.png)
 
 
 # Folder Structure
