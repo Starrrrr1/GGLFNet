@@ -51,7 +51,7 @@ To install all dependencies:
 
 - We found that the model can achieve better results by training under the *[MISSFormer](https://github.com/ZhifangDeng/MISSFormer)* training framework.
 
-For details, please refer to this link *[GGLFNet]()*
+For details, please refer to this link *[GGLFNet_2](https://github.com/Starrrrr1/GGLFNet_2/tree/main)*
 
 # result
 
